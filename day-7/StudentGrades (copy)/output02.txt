@@ -1,0 +1,4 @@
+Name: Charlie, Roll Number: 201, Marks: 78, Grade: C
+Name: Daisy, Roll Number: 202, Marks: 88, Grade: B
+Name: Ethan, Roll Number: 203, Marks: 95, Grade: A
+Average Marks: 87.00

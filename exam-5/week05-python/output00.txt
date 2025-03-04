@@ -1,0 +1,13 @@
+Select 1: Add/Change Contact
+Select 2: Look Up Person
+Select 3: Remove Person
+Select 4: Save Directory
+Select 5: Exit
+Enter choice: Enter name: 
+The number for Murthy is 905121221
+Select 1: Add/Change Contact
+Select 2: Look Up Person
+Select 3: Remove Person
+Select 4: Save Directory
+Select 5: Exit
+Enter choice: Bye

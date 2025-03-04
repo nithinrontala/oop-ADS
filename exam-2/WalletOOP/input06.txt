@@ -1,0 +1,6 @@
+0 1.5
+withdraw 200
+withdraw 6000
+withdraw 400
+getBalance
+getTransactions

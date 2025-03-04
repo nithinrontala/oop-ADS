@@ -1,0 +1,3 @@
+Name: Tom, Roll Number: 701, Marks: 97, Grade: A
+Name: Uma, Roll Number: 702, Marks: 88, Grade: B
+Average Marks: 86.25

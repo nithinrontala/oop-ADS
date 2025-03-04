@@ -1,0 +1,14 @@
+Game starts:
+Player's turn:
+7 1 
+Your total score: 18
+Do you want to hit or stand? (h/s): Player's turn:
+7 1 4 
+Your total score: 12
+Do you want to hit or stand? (h/s): Player's turn:
+7 1 4 5 
+Your total score: 17
+Do you want to hit or stand? (h/s): Player busts!
+Player's hand: 
+7 1 4 5 6 
+Player has busted!

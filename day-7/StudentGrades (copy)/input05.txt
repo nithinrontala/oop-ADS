@@ -1,0 +1,5 @@
+Add Student: Michael, 501, 82
+Add Student: Nancy, 502, 77
+DisplayStudents
+Add Student: Oscar, 503, 91
+CalculateAverageMarks

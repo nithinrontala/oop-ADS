@@ -1,0 +1,4 @@
+Name: Peter, Roll Number: 601, Marks: 68, Grade: D
+Name: Quinn, Roll Number: 602, Marks: 94, Grade: A
+Name: Rachel, Roll Number: 603, Marks: 73, Grade: C
+Average Marks: 79.00

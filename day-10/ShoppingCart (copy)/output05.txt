@@ -1,0 +1,24 @@
+Total after 10% discount: $0.00
+Total after 10% discount: $0.00
+Cart is empty.
+Total after 10% discount: $0.00
+Item not found in the cart: Printer
+Total after 10% discount: $0.00
+Item added to cart: Headphones
+Item not found in the cart: Keyboard
+Item added to cart: Monitor
+Item not found in the cart: Printer
+Items in Cart:
+Headphones - $707.00 × 2 = $1414.00
+Monitor - $338.00 × 4 = $1352.00
+Total Amount: $2766.00
+Item added to cart: Printer
+Item added to cart: Tablet
+Items in Cart:
+Headphones - $707.00 × 2 = $1414.00
+Monitor - $338.00 × 4 = $1352.00
+Printer - $589.00 × 3 = $1767.00
+Tablet - $717.00 × 5 = $3585.00
+Total Amount: $8118.00
+Item removed from cart: Monitor
+Total after 10% discount: $6089.40

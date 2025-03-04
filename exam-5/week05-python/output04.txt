@@ -1,0 +1,20 @@
+Select 1: Add/Change Contact
+Select 2: Look Up Person
+Select 3: Remove Person
+Select 4: Save Directory
+Select 5: Exit
+Enter choice: INVALID CHOICE - TRY AGAIN
+Select 1: Add/Change Contact
+Select 2: Look Up Person
+Select 3: Remove Person
+Select 4: Save Directory
+Select 5: Exit
+Enter choice: Enter name: 
+Enter number: Alice was added to the directory
+New number: 555-0101
+Select 1: Add/Change Contact
+Select 2: Look Up Person
+Select 3: Remove Person
+Select 4: Save Directory
+Select 5: Exit
+Enter choice: Bye

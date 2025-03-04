@@ -1,0 +1,11 @@
+Wallet initialized with withdrawalLimit: 200.0, withdrawalFeePercentage: 5.0%
+Deposit of 500.0 successful. Current balance: 500.0
+Withdrawal of 50.0 successful with a fee of 2.5. Current balance: 447.5
+Withdrawal of 150.0 successful with a fee of 7.5. Current balance: 290.0
+Withdrawal of 200.0 successful with a fee of 10.0. Current balance: 80.0
+Current Balance: 80.0
+Transaction History:
+1. DEPOSIT 500.0 (Fee: 0.0)
+2. WITHDRAW 50.0 (Fee: 2.5)
+3. WITHDRAW 150.0 (Fee: 7.5)
+4. WITHDRAW 200.0 (Fee: 10.0)

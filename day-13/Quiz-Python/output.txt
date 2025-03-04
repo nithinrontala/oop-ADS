@@ -1,0 +1,24 @@
+parseQuestions Test: PASS
+Individual Question Parsing Tests: PASS
+startQuiz Test: PASS
+Total Score Calculation Test: PASS
+
+--- Score Report ---
+
+Score Report:
+Question: Who is the current Chief Minister of Telangana?
+Choices: KCR, Chandra Babu Naidu, President’s Rule, Jagan
+Your Answer: 1 | Correct Answer: 1
+Correct Answer! Marks Awarded: 3
+
+Question: What is the capital of France?
+Choices: Paris, London, Rome, Berlin
+Your Answer: 2 | Correct Answer: 1
+Wrong Answer! Penalty Applied: 0
+
+Question: Which planet is known as the Red Planet?
+Choices: Earth, Mars, Jupiter, Venus
+Your Answer: 2 | Correct Answer: 2
+Correct Answer! Marks Awarded: 4
+
+Total Score: 7

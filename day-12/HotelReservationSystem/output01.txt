@@ -1,0 +1,7 @@
+Alice reserved Room 1
+Bob reserved Room 2
+Current Reservations:
+Alice - Room 1
+Bob - Room 2
+Total Reservations: 2
+Available Rooms: 3

@@ -1,0 +1,6 @@
+Wallet initialized with withdrawalLimit: 0.0, withdrawalFeePercentage: 1.5%
+Withdrawal of 200.0 failed. Balance remains: 0.0
+Withdrawal of 6000.0 failed. Balance remains: 0.0
+Withdrawal of 400.0 failed. Balance remains: 0.0
+Current Balance: 0.0
+Transaction History:

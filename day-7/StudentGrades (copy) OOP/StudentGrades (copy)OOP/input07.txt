@@ -1,0 +1,6 @@
+Add Student: Tom, 701, 97
+Add Student: Uma, 702, 88
+DisplayStudents
+Add Student: Victor, 703, 76
+Add Student: Wendy, 704, 84
+CalculateAverageMarks

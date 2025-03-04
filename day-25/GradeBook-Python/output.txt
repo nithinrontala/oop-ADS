@@ -1,0 +1,131 @@
+=== TEST CASES FOR GRADEBOOK PROJECT ===
+
+Test 1: GradeBook creation from file.
+PASS: GradeBook created with 3 students.
+
+Test 2: GradeBook.__str__() output:
+John Doe (USA, 20) | Major: CS | ID: jd123
+Jane Smith (Canada, 21) | Major: EE | ID: js456
+Alice Brown (UK, 22) | Major: ME | ID: ab789
+
+
+Test 3: print_individual_grades() for jd123
+Grades for jd123:
+  HW1: 85 (weight: 0.07)
+  Q1: 90 (weight: 0.015)
+  MT: 88 (weight: 0.14)
+  F: 92 (weight: 0.25)
+
+
+Test 4: print_individual_grades() for invalid id xx000
+No student found with id: xx000
+
+Test 5: print_grades_by_major() for major CS
+John Doe (USA, 20) | Major: CS | ID: jd123
+Grades for jd123:
+  HW1: 85 (weight: 0.07)
+  Q1: 90 (weight: 0.015)
+  MT: 88 (weight: 0.14)
+  F: 92 (weight: 0.25)
+
+
+Test 6: print_grades_by_major() for major Bio
+No students found in major: Bio
+
+Test 7: remove_student() for js456
+Student with id js456 removed.
+PASS: js456 removed.
+
+Test 8: remove_student() for invalid id xx999
+Error: No student with id xx999 found to remove.
+
+Test 9: change_grade() for jd123, HW1 to 90
+Grade for HW1 updated to 90 for student jd123
+Verifying jd123 grades:
+Grades for jd123:
+  HW1: 90 (weight: 0.07)
+  Q1: 90 (weight: 0.015)
+  MT: 88 (weight: 0.14)
+  F: 92 (weight: 0.25)
+
+
+Test 10: change_grade() for jd123, Quiz2 (invalid assignment)
+Error: Assignment Quiz2 not found for student jd123
+
+Test 11: change_grade() for invalid id xx111
+Error: No student with id xx111 found.
+
+Test 12: print_current_grade() for jd123
+Current letter grade for jd123 is: A
+
+Test 13: print_current_grade() for invalid id xx222
+Error: No student with id xx222 found.
+
+Test 14: what_do_i_need() for jd123 for target grade A
+Student jd123 needs an average of 89.58 on the remaining work for a(n) A
+
+Test 15: what_do_i_need() for invalid id xx333
+Error: No student with id xx333 found.
+
+Test 16: update_database() to updatedGrades.txt
+Database updated in file: updatedGrades.txt
+
+Test 17: Manual Student grade additions for Bob
+PASS: Bob's current score: 88.29473684210525
+
+Test 18: Check letter grade boundary for Bob
+Bob's letter grade is: B
+
+Test 19: what_do_i_need() for Bob for target grade A
+Bob needs an average of 91.54 on remaining work.
+
+Test 20: Add Bob (bm001) to GradeBook and print grades.
+Grades for bm001:
+  HW2: 88 (weight: 0.07)
+  Q2: 92 (weight: 0.015)
+  MT: 85 (weight: 0.14)
+  F: 90 (weight: 0.25)
+
+
+Test 21: Remove Bob (bm001) from GradeBook.
+Student with id bm001 removed.
+PASS: Bob removed.
+
+Test 22: change_grade() for Alice (ab789) with non-existent assignment HW3
+Error: Assignment HW3 not found for student ab789
+
+Test 23: print_current_grade() for ab789
+Current letter grade for ab789 is: C
+
+Test 24: Add new grade HW2 for Alice (ab789) and verify.
+Grades for ab789:
+  HW1: 75 (weight: 0.07)
+  Q1: 80 (weight: 0.015)
+  MT: 70 (weight: 0.14)
+  F: 85 (weight: 0.25)
+  HW2: 82 (weight: 0.07)
+
+
+Test 25: what_do_i_need() for student with full weight (simulate for jd123)
+Student jd123 needs an average of 89.58 on the remaining work for a(n) A
+
+Test 26: Verify change_grade() for jd123 changes HW1 to 95
+Grade for HW1 updated to 95 for student jd123
+Grades for jd123:
+  HW1: 95 (weight: 0.07)
+  Q1: 90 (weight: 0.015)
+  MT: 88 (weight: 0.14)
+  F: 92 (weight: 0.25)
+  Extra: 100 (weight: 0.0)
+
+
+Test 27: Create student with perfect scores to yield A
+PASS: Perfect student letter grade is A.
+
+Test 28: Add Perfect student to GradeBook and update database.
+Database updated in file: updatedGrades2.txt
+
+Test 29: Re-read updated database file to verify content.
+PASS: Updated database contains Perfect student.
+
+=== End of Tests ===

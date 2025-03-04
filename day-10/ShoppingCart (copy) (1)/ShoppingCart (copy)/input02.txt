@@ -1,0 +1,18 @@
+Remove Item Mouse
+Add Item Keyboard, 591, 5
+Add Item Headphones, 707, 2
+ApplyDiscount
+Add Item Monitor, 338, 4
+DisplayCart
+DisplayCart
+Add Item Monitor, 338, 4
+Add Item Monitor, 338, 4
+Add Item Charger, 985, 4
+Add Item Mouse, 512, 4
+ApplyDiscount
+ApplyDiscount
+DisplayCart
+Add Item Printer, 589, 3
+DisplayCart
+Add Item Keyboard, 591, 5
+Add Item Charger, 985, 4

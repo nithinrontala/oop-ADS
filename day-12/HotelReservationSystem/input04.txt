@@ -1,0 +1,5 @@
+5
+reserve Alice
+reserve Bob
+cancel Alice
+print

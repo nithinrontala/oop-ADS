@@ -1,0 +1,16 @@
+Test add(e) Passed
+Test add_at(index, element) Passed
+Test add_all_at(index, collection) Passed
+Test add_all(collection) Passed
+Test contains(o) Passed
+Test ensure_capacity() Passed
+Test get(index) Passed
+Test index_of() and last_index_of() Passed
+Test is_empty() and size_() Passed
+Test remove_at(index) Passed
+Test remove(o) Passed
+Test set(index, element) Passed
+Test trim_to_size() Passed
+Test clear() Passed
+
+All tests passed!

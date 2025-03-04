@@ -1,0 +1,4 @@
+Wallet initialized with balance 0 and empty transaction history.
+Invalid amount. Transaction not recorded.
+Insufficient balance. Transaction not recorded.
+[]

@@ -1,0 +1,5 @@
+Name: Ian, Roll Number: 401, Marks: 90, Grade: A
+Name: Jenny, Roll Number: 402, Marks: 93, Grade: A
+Name: Kevin, Roll Number: 403, Marks: 86, Grade: B
+Name: Lily, Roll Number: 404, Marks: 79, Grade: C
+Average Marks: 87.00

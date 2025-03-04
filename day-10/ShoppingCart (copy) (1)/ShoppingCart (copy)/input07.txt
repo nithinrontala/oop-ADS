@@ -1,0 +1,10 @@
+DisplayCart
+Add Item Tablet, 717, 5
+Add Item Charger, 985, 4
+ApplyDiscount
+Add Item Phone, 319, 3
+Add Item Headphones, 707, 2
+Remove Item Tablet
+Remove Item Monitor
+Add Item Keyboard, 591, 5
+ApplyDiscount

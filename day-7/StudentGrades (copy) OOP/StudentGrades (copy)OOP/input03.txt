@@ -1,0 +1,5 @@
+Add Student: Fiona, 301, 65
+Add Student: George, 302, 72
+DisplayStudents
+Add Student: Hannah, 303, 89
+CalculateAverageMarks

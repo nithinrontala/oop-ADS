@@ -1,0 +1,5 @@
+Add Student: Xavier, 801, 64
+Add Student: Yolanda, 802, 92
+Add Student: Zach, 803, 85
+DisplayStudents
+CalculateAverageMarks

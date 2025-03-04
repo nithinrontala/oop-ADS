@@ -1,0 +1,18 @@
+Game starts:
+Player's turn:
+7 1 
+Your total score: 18
+Do you want to hit or stand? (h/s): Dealer's turn:
+2 3 
+Dealer's total score: 5
+Dealer chooses to hit. (h/s): 2 3 4 
+Dealer's total score: 9
+Dealer chooses to hit. (h/s): 2 3 4 5 
+Dealer's total score: 14
+Dealer chooses to hit. (h/s): 2 3 4 5 6 
+Dealer's total score: 20
+
+Final results:
+7 1 
+2 3 4 5 6 
+Dealer wins!

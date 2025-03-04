@@ -1,0 +1,5 @@
+constructor(int, int)
+3
+12,30
+25,70
+-1,-5

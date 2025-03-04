@@ -1,0 +1,3 @@
+Name: Michael, Roll Number: 501, Marks: 82, Grade: B
+Name: Nancy, Roll Number: 502, Marks: 77, Grade: C
+Average Marks: 83.33

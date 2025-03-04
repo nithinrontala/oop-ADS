@@ -1,0 +1,3 @@
+Wallet initialized with balance 0 and empty transaction history.
+Insufficient balance. Transaction not recorded.
+Current balance: 0.0

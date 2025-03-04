@@ -1,0 +1,180 @@
+Running Multiplayer Bingo Test Cases 1...
+Alice's Board:
+Board State:
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+Bob's Board:
+Board State:
+2 4 6 8
+10 12 14 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 6 9 12
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Test Passed 1
+Test Passed 2
+Test Passed 3
+Starting Multiplayer Game...
+Alice calls number: 2
+Alice's Board:
+Board State:
+1 X 3 4
+X X X X
+9 10 11 12
+13 14 15 16
+Bob's Board:
+Board State:
+X 4 6 8
+10 12 14 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 6 9 12
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Alice Wins!
+All Multiplayer Test Cases Passed! The Bingo Game Logic is Correct.
+----------------------------------------------------------------------
+Running Multiplayer Bingo Test Cases 2...
+Alice's Board:
+Board State:
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+Bob's Board:
+Board State:
+2 4 6 8
+10 12 14 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 6 9 12
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Alice calls number: 2
+Alice's Board:
+Board State:
+1 X 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+Bob's Board:
+Board State:
+X 4 6 8
+10 12 14 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 6 9 12
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Bob calls number: 10
+Alice's Board:
+Board State:
+1 X 3 4
+5 6 7 8
+9 X 11 12
+13 14 15 16
+Bob's Board:
+Board State:
+X 4 6 8
+X 12 14 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 6 9 12
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Charlie calls number: 4
+Alice's Board:
+Board State:
+1 X 3 X
+5 6 7 8
+9 X 11 12
+13 14 15 16
+Bob's Board:
+Board State:
+X X 6 8
+X 12 14 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 6 9 12
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Alice calls number: 12
+Alice's Board:
+Board State:
+1 X 3 X
+5 6 7 8
+9 X 11 X
+13 14 15 16
+Bob's Board:
+Board State:
+X X 6 8
+X X 14 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 6 9 X
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Bob calls number: 6
+Alice's Board:
+Board State:
+1 X 3 X
+5 X 7 8
+9 X 11 X
+13 14 15 16
+Bob's Board:
+Board State:
+X X X 8
+X X 14 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 X 9 X
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Charlie calls number: 14
+Alice's Board:
+Board State:
+1 X 3 X
+5 X 7 8
+9 X 11 X
+13 X 15 16
+Bob's Board:
+Board State:
+X X X 8
+X X X 16
+18 20 22 24
+26 28 30 32
+Charlie's Board:
+Board State:
+3 X 9 X
+15 18 21 24
+27 30 33 36
+39 42 45 48
+Alice Wins!
+All Multiplayer Test Cases Passed! The Bingo Game Logic is Correct.

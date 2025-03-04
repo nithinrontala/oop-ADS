@@ -1,0 +1,39 @@
+Item not found in the cart: Mouse
+Item added to cart: Keyboard
+Item added to cart: Headphones
+Total after 10% discount: $3932.10
+Item added to cart: Monitor
+Items in Cart:
+Keyboard - $591.00 × 5 = $2955.00
+Headphones - $707.00 × 2 = $1414.00
+Monitor - $338.00 × 4 = $1352.00
+Total Amount: $5721.00
+Items in Cart:
+Keyboard - $591.00 × 5 = $2955.00
+Headphones - $707.00 × 2 = $1414.00
+Monitor - $338.00 × 4 = $1352.00
+Total Amount: $5721.00
+Quantity updated for item: Monitor
+Quantity updated for item: Monitor
+Item added to cart: Charger
+Item added to cart: Mouse
+Total after 10% discount: $12971.70
+Total after 10% discount: $12971.70
+Items in Cart:
+Keyboard - $591.00 × 5 = $2955.00
+Headphones - $707.00 × 2 = $1414.00
+Monitor - $338.00 × 12 = $4056.00
+Charger - $985.00 × 4 = $3940.00
+Mouse - $512.00 × 4 = $2048.00
+Total Amount: $14413.00
+Item added to cart: Printer
+Items in Cart:
+Keyboard - $591.00 × 5 = $2955.00
+Headphones - $707.00 × 2 = $1414.00
+Monitor - $338.00 × 12 = $4056.00
+Charger - $985.00 × 4 = $3940.00
+Mouse - $512.00 × 4 = $2048.00
+Printer - $589.00 × 3 = $1767.00
+Total Amount: $16180.00
+Quantity updated for item: Keyboard
+Quantity updated for item: Charger

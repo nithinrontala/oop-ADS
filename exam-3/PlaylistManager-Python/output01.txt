@@ -1,0 +1,14 @@
+Welcome to the Music Playlist Manager!
+Running Song Tests...
+Song Tests Passed.
+----------------------------------------------------
+Running Playlist Tests...
+Playlist Tests Passed.
+----------------------------------------------------
+Running PlaylistManager Tests...
+PlaylistManager Tests Passed.
+----------------------------------------------------
+Running Extended Integration Tests...
+Extended Integration Tests Passed.
+----------------------------------------------------
+All tests completed successfully.

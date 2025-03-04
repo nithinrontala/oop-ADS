@@ -1,0 +1,14 @@
+Remove Item Laptop
+DisplayCart
+Add Item Tablet, 717, 5
+Remove Item Printer
+Add Item Camera, 812, 1
+Remove Item Mouse
+Remove Item Printer
+Add Item Camera, 812, 1
+Add Item Charger, 985, 4
+Remove Item Tablet
+ApplyDiscount
+DisplayCart
+ApplyDiscount
+Add Item Keyboard, 591, 5

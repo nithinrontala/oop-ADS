@@ -1,0 +1,6 @@
+Add Student: Ian, 401, 90
+Add Student: Jenny, 402, 93
+Add Student: Kevin, 403, 86
+Add Student: Lily, 404, 79
+DisplayStudents
+CalculateAverageMarks

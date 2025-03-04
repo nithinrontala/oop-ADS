@@ -1,0 +1,7 @@
+Charlie reserved Room 3
+David reserved Room 5
+Current Reservations:
+Charlie - Room 3
+David - Room 5
+Total Reservations: 2
+Available Rooms: 3

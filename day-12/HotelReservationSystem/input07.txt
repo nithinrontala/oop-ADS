@@ -1,0 +1,6 @@
+3
+reserve Alice
+build 2
+reserve Bob 4
+reserve Charlie 5
+print

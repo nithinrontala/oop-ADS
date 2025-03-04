@@ -1,0 +1,12 @@
+Alice reserved Room 1
+Bob reserved Room 2
+Added 3 more rooms.
+Charlie reserved Room 3
+David reserved Room 4
+Current Reservations:
+Alice - Room 1
+Bob - Room 2
+Charlie - Room 3
+David - Room 4
+Total Reservations: 4
+Available Rooms: 1

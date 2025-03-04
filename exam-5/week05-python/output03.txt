@@ -1,0 +1,22 @@
+Select 1: Add/Change Contact
+Select 2: Look Up Person
+Select 3: Remove Person
+Select 4: Save Directory
+Select 5: Exit
+Enter choice: Enter name: 
+Enter number: Number for Nivas was changed
+Old number: 121221-21122
+New number: 987654321
+Select 1: Add/Change Contact
+Select 2: Look Up Person
+Select 3: Remove Person
+Select 4: Save Directory
+Select 5: Exit
+Enter choice: Enter name: 
+The number for Nivas is 987654321
+Select 1: Add/Change Contact
+Select 2: Look Up Person
+Select 3: Remove Person
+Select 4: Save Directory
+Select 5: Exit
+Enter choice: Bye

@@ -1,0 +1,11 @@
+5
+reserve Alice
+reserve Bob
+reserve Charlie
+reserve David
+reserve Eve
+cancel Bob
+cancel David
+reserve Frank
+reserve Grace
+print

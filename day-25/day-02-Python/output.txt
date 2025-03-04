@@ -1,0 +1,7 @@
+Test 1: Deposit successful.
+Test 2: Withdrawal successful.
+Test 3: Properly handled insufficient funds.
+Test 4: Negative deposit rejected.
+Test 1: SavingsAccount interest calculated correctly.
+Test 2: CurrentAccount overdraft withdrawal successful.
+Test 3: Properly rejected excessive withdrawal in CurrentAccount.

@@ -1,0 +1,5 @@
+Wallet initialized with balance 0 and empty transaction history.
+Balance updated to 10000.0, transaction history logged.
+Balance updated to 1.0, transaction history logged.
+Balance updated to 2.0, transaction history logged.
+[+10000.0, -9999.0, +1.0]

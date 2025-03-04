@@ -1,0 +1,17 @@
+Add Item Camera, 812, 1
+Remove Item Keyboard
+ApplyDiscount
+Remove Item Phone
+Remove Item Mouse
+DisplayCart
+Remove Item Mouse
+Remove Item Keyboard
+ApplyDiscount
+Add Item Laptop, 778, 5
+Remove Item Camera
+ApplyDiscount
+Add Item Monitor, 338, 4
+ApplyDiscount
+ApplyDiscount
+DisplayCart
+ApplyDiscount

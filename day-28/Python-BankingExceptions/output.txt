@@ -1,0 +1,6 @@
+Initial balance: 500
+Deposited 200, new balance: 700
+Deposit error (NegativeAmountException): Deposit amount cannot be negative.
+Withdrew 100, new balance: 600
+Withdrawal error (NegativeAmountException): Withdrawal amount cannot be negative.
+Withdrawal error (InsufficientFundsException): Insufficient funds for withdrawal.

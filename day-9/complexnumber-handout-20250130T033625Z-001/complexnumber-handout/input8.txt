@@ -1,0 +1,11 @@
+initialize -3,4
+add 5,-4
+subtract 3,-1
+multiply -6,6
+divide 8,-2
+modulus -7,24
+conjugate -3,-7
+add 5,-6
+divide -9,3
+modulus 8,-8
+exit

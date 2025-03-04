@@ -1,0 +1,10 @@
+Initialized: 0.0 + 3.0i
+After addition: 0.0 + 7.0i
+After subtraction: 0.0 + 6.0i
+After multiplication: -18.0 + 0.0i
+After division: 0.0 + 6.0i
+Modulus: 6.0
+Conjugate: 0.0 - 6.0i
+After addition: 0.0 - 4.0i
+After division: -4.0 + -0.0i
+Modulus: 4.0

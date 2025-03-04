@@ -1,0 +1,10 @@
+Initialized: -3.0 + 4.0i
+After addition: 2.0 + 0.0i
+After subtraction: -1.0 + 1.0i
+After multiplication: 0.0 - 12.0i
+After division: 0.35294117647058826 - 1.411764705882353i
+Modulus: 1.455213750217998
+Conjugate: 0.35294117647058826 + 1.411764705882353i
+After addition: 5.352941176470588 - 4.588235294117647i
+After division: -0.6882352941176471 + 0.28039215686274505i
+Modulus: 0.7431605356175384

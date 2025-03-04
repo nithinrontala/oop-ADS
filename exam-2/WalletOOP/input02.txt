@@ -1,0 +1,6 @@
+2000 1.5
+deposit 5000
+withdraw 2500
+withdraw 2000
+getBalance
+getTransactions

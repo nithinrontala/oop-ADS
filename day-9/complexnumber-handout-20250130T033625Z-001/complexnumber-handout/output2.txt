@@ -1,0 +1,10 @@
+Initialized: 1.0 + 2.0i
+After addition: 2.0 + 4.0i
+After subtraction: -2.0 + 1.0i
+After multiplication: -11.0 - 7.0i
+Error: Division by zero is not allowed.
+Modulus: 13.038404810405298
+Conjugate: -11.0 + 7.0i
+After addition: -9.0 + 9.0i
+After division: 0.9 + 2.7i
+Modulus: 2.8460498941515415

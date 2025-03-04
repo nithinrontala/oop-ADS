@@ -1,0 +1,5 @@
+Add Student: Charlie, 201, 78
+Add Student: Daisy, 202, 88
+Add Student: Ethan, 203, 95
+DisplayStudents
+CalculateAverageMarks

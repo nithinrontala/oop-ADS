@@ -1,0 +1,23 @@
+
+----- Running Tests -----
+
+Test 1 Passed: 3x3 board initialized with all cells empty.
+Test 2.1 Passed: (1,1) is a valid move on 3x3 board.
+Test 2.2 Passed: (-1,0) correctly identified as invalid.
+Test 2.3 Passed: (3,0) correctly identified as invalid (index equal to size).
+Test 3.1 Passed: Successfully placed 'X' at (0,0).
+Test 3.2 Passed: Cannot override cell (0,0) which is already occupied.
+Test 3.3 Passed: Move at (3,3) correctly identified as out-of-bound.
+Test 4.1 Passed: Row win detected for 'O' in first row.
+Test 4.2 Passed: Column win detected for 'X' in first column.
+Test 4.3 Passed: Main diagonal win detected for 'X'.
+Test 4.4 Passed: Anti-diagonal win detected for 'O'.
+Test 4.5 Passed: No win detected as expected on mixed moves.
+Test 5.1 Passed: Board not full correctly returns no draw.
+Test 5.2 Passed: Full board with no win correctly detected as draw.
+Test 6.1 Passed: 4x4 board initialized with all cells empty.
+Test 6.2 Passed: Successfully placed 'Z' at (2,3) on 4x4 board.
+Test 6.3 Passed: (4,0) correctly detected as out-of-bound on 4x4 board.
+
+----- Tests Completed -----
+

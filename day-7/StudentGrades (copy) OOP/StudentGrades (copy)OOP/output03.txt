@@ -1,0 +1,3 @@
+Name: Fiona, Roll Number: 301, Marks: 65, Grade: D
+Name: George, Roll Number: 302, Marks: 72, Grade: C
+Average Marks: 75.33

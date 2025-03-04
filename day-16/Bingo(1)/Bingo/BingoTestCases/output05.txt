@@ -1,0 +1,7 @@
+X  X  X  X  X
+X  X  X  X  X
+X  X  X  X  X
+X  X  X  X  70
+20  32  46  X  80
+
+Remaining Letters: O

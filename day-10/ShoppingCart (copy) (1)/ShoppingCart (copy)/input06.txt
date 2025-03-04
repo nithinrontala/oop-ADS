@@ -1,0 +1,14 @@
+Add Item Keyboard, 591, 5
+ApplyDiscount
+DisplayCart
+ApplyDiscount
+Add Item Monitor, 338, 4
+Remove Item Phone
+Remove Item Headphones
+Remove Item Mouse
+ApplyDiscount
+ApplyDiscount
+ApplyDiscount
+DisplayCart
+Remove Item Phone
+DisplayCart

@@ -1,0 +1,6 @@
+4
+reserve Alice
+reserve Bob
+cancel Alice
+reserve Eve 1
+print

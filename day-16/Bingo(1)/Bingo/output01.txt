@@ -1,0 +1,7 @@
+X  X  X  X  X
+X  X  X  X  X
+X  X  X  X  X
+X  X  X  X  75
+16  32  49  64  80
+
+Remaining Letters: G O

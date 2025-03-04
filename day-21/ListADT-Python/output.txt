@@ -1,0 +1,14 @@
+Test 1 Passed: add(e) works correctly.
+Test 2a Passed: add_at at beginning works correctly.
+Test 2b Passed: add_at in middle works correctly.
+Test 2c Passed: add_at at end works correctly.
+Test 3 Passed: addAll(index, collection) works correctly.
+Test 4a Passed: contains() correctly returns True for an existing element.
+Test 4b Passed: contains() correctly returns False for a non-existing element.
+Test 5a Passed: get(0) works correctly.
+Test 5b Passed: get(3) works correctly.
+Test 5c Passed: get(last index) works correctly.
+Test 6 Passed: ensureCapacity() increased the capacity as expected.
+Test 7 Passed: clear() works correctly.
+Test 8 Passed: Handling of None values works correctly.
+All tests passed!

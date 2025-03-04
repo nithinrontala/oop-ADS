@@ -1,0 +1,7 @@
+2
+reserve Alice
+reserve Bob
+build 3
+reserve Charlie
+reserve David
+print

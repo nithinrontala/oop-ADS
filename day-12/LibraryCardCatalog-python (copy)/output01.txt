@@ -1,0 +1,140 @@
+==================== Testing add_a_card() ====================
+Test Case 1: Expected catalog order:
+  Title: Animal Farm | Author: George Orwell | Subject: Dystopia
+Actual catalog:
+Title: Animal Farm | Author: George Orwell | Subject: Dystopia
+
+Test Case 2: Expected catalog order:
+  Title: A Tale of Two Cities | Author: Charles Dickens | Subject: Historical
+  Title: Moby Dick | Author: Herman Melville | Subject: Adventure
+Actual catalog:
+Title: A Tale of Two Cities | Author: Charles Dickens | Subject: Historical
+Title: Moby Dick | Author: Herman Melville | Subject: Adventure
+
+Test Case 3: Expected catalog order:
+  Title: A Farewell to Arms | Author: Ernest Hemingway | Subject: War
+  Title: Brave New World | Author: Aldous Huxley | Subject: Dystopia
+  Title: The Great Gatsby | Author: F. Scott Fitzgerald | Subject: Drama
+Actual catalog:
+Title: A Farewell to Arms | Author: Ernest Hemingway | Subject: War
+Title: Brave New World | Author: Aldous Huxley | Subject: Dystopia
+Title: The Great Gatsby | Author: F. Scott Fitzgerald | Subject: Drama
+
+Test Case 4: Expected catalog (both entries, order may vary but adjacent):
+  Title: Hamlet | Author: William Shakespeare | Subject: Tragedy
+  Title: hamlet | Author: Someone Else | Subject: Drama
+Actual catalog:
+Title: hamlet | Author: Someone Else | Subject: Drama
+Title: Hamlet | Author: William Shakespeare | Subject: Tragedy
+
+==================== Testing get_a_title() ====================
+Test Case 1: Searching for title "1984"
+Expected: Title: 1984 | Author: George Orwell | Subject: Dystopia
+Actual: Title: 1984 | Author: George Orwell | Subject: Dystopia
+
+Test Case 2: Searching for title "The Catcher in the Rye"
+Expected: Not Found
+Actual: Not Found
+
+Test Case 3: Searching for title "the hobbit" (lowercase)
+Expected: Title: The Hobbit | Author: J.R.R. Tolkien | Subject: Fantasy
+Actual: Title: The Hobbit | Author: J.R.R. Tolkien | Subject: Fantasy
+
+Test Case 4: Searching for title "Dune" with multiple entries (should return first)
+Expected: First inserted Dune card (Frank Herbert)
+Actual: Title: Dune | Author: Another Author | Subject: Different Subject
+
+==================== Testing get_an_author() ====================
+Test Case 1: Searching for author "Jane Austen"
+Expected: 1 card - Pride and Prejudice
+Actual:
+Title: Pride and Prejudice | Author: Jane Austen | Subject: Romance
+
+Test Case 2: Searching for author "Jane Austen" (multiple entries)
+Expected: 2 cards - Emma and Sense and Sensibility
+Actual:
+Title: Emma | Author: Jane Austen | Subject: Romance
+Title: Sense and Sensibility | Author: Jane Austen | Subject: Romance
+
+Test Case 3: Searching for author "Jane Austen" when none exist
+Expected: Empty list
+Actual: Empty list
+
+Test Case 4: Searching for author "charles dickens" (lowercase)
+Expected: 1 card - Great Expectations
+Actual:
+Title: Great Expectations | Author: Charles Dickens | Subject: Fiction
+
+==================== Testing get_subject() ====================
+Test Case 1: Searching for subject "Horror"
+Expected: 1 card - The Shining
+Actual:
+Title: The Shining | Author: Stephen King | Subject: Horror
+
+Test Case 2: Searching for subject "Horror" (multiple entries)
+Expected: 2 cards - It and Carrie
+Actual:
+Title: Carrie | Author: Stephen King | Subject: Horror
+Title: It | Author: Stephen King | Subject: Horror
+
+Test Case 3: Searching for subject "Science Fiction" when none exist
+Expected: Empty list
+Actual: Empty list
+
+Test Case 4: Searching for subject "science fiction" (lowercase)
+Expected: 1 card - Foundation
+Actual:
+Title: Foundation | Author: Isaac Asimov | Subject: Science Fiction
+
+==================== Testing remove_a_title() ====================
+Test Case 1: Removing title "The Catcher in the Rye"
+Expected: True; catalog should now be empty.
+Actual: True
+Catalog after removal:
+The catalog is empty.
+
+Test Case 2: Removing title "Animal Farm" (does not exist)
+Expected: False; catalog should remain unchanged.
+Actual: False
+Catalog after attempted removal:
+Title: Lord of the Flies | Author: William Golding | Subject: Allegory
+
+Test Case 3: Removing title "frankenstein" (lowercase)
+Expected: True; catalog should now be empty.
+Actual: True
+Catalog after removal:
+The catalog is empty.
+
+Test Case 4: Removing title "Dune" when multiple exist
+Expected: True; one Dune should be removed, leaving one remaining.
+Actual: True
+Catalog after removal:
+Title: Dune | Author: Frank Herbert | Subject: Science Fiction
+
+==================== Testing print_the_catalog() ====================
+Test Case 1: Printing an empty catalog
+Expected: "The catalog is empty."
+Actual:
+The catalog is empty.
+
+Test Case 2: Printing a catalog with one card
+Expected: One card printed - Fahrenheit 451
+Actual:
+Title: Fahrenheit 451 | Author: Ray Bradbury | Subject: Dystopia
+
+Test Case 3: Printing a catalog with multiple cards (sorted order)
+Expected order (alphabetical by title):
+  Title: 1984 ...
+  Title: Animal Farm ...
+  Title: Brave New World ...
+Actual:
+Title: 1984 | Author: George Orwell | Subject: Dystopia
+Title: Animal Farm | Author: George Orwell | Subject: Political Satire
+Title: Brave New World | Author: Aldous Huxley | Subject: Dystopia
+
+Test Case 4: Removing "The Hobbit" then printing catalog
+Removal expected: True. Actual: True
+Expected catalog:
+  Title: The Lord of the Rings | Author: J.R.R. Tolkien | Subject: Fantasy
+Actual catalog:
+Title: The Lord of the Rings | Author: J.R.R. Tolkien | Subject: Fantasy

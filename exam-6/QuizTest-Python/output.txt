@@ -1,0 +1,85 @@
+=== Testing Individual Question Classes ===
+Base Question: What is the capital of France?
+MultipleChoiceQuestion Options: ['Python', 'JavaScript', 'C++', 'Java']
+TrueFalseQuestion Options: ['True', 'False']
+FillInTheBlankQuestion: Complete the sentence: Java is a ____ programming language.
+
+=== Validating Answers ===
+Base Question: Answer is correct!
+MultipleChoiceQuestion: Answer is correct!
+TrueFalseQuestion: Answer is correct!
+FillInTheBlankQuestion: Answer is correct!
+
+=== Testing Setters on Base Question ===
+Updated Question: What is the capital city of France?
+Updated Options: ['Paris', 'Lyon', 'Marseille', 'Nice']
+
+=== Building the Quiz ===
+Total questions in quiz: 4
+
+=== Simulated Quiz Run ===
+
+Question: What is the capital city of France?
+Options:
+  1. Paris
+  2. Lyon
+  3. Marseille
+  4. Nice
+Simulated Answer: Paris
+Result: Correct!
+
+Question: Which language is known as the language of the web?
+Options:
+  1. Python
+  2. JavaScript
+  3. C++
+  4. Java
+Simulated Answer: JavaScript
+Result: Correct!
+
+Question: The Earth is flat.
+Options:
+  1. True
+  2. False
+Simulated Answer: False
+Result: Correct!
+
+Question: Complete the sentence: Java is a ____ programming language.
+No predefined options. Please answer in text.
+Simulated Answer: versatile
+Result: Correct!
+
+=== Testing Removal and Shuffling ===
+After removal, total questions in quiz: 3
+Order after removing:
+ - What is the capital city of France?
+ - Which language is known as the language of the web?
+ - Complete the sentence: Java is a ____ programming language.
+After adding, total questions in quiz: 4
+Order after adding:
+ - What is the capital city of France?
+ - Which language is known as the language of the web?
+ - Complete the sentence: Java is a ____ programming language.
+ - The Earth is flat.
+
+=== Simulating Student Quiz Sessions ===
+
+--- Alice is taking the quiz ---
+Correct!
+Correct!
+Incorrect! Correct answer: versatile
+Incorrect! Correct answer: False
+
+Alice scored 2 out of 4.
+
+--- Bob is taking the quiz ---
+Correct!
+Correct!
+Correct!
+Correct!
+
+Bob scored 4 out of 4.
+
+=== Leaderboard ===
+Student: Alice | Score: 2
+Student: Bob | Score: 4

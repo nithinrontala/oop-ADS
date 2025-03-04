@@ -1,0 +1,9 @@
+add abc apple fruit
+display
+add a ram temp
+add b ram fox
+display
+gettitle abc
+getaut ram
+remove a
+display

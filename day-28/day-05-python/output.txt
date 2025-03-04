@@ -1,0 +1,6 @@
+Test 1: Deposit successful in Alice's Savings Account.
+Test 2: Withdrawal successful in Bob's Current Account.
+Test 3: Transfer operation successful.
+Test 4: Loan repayment successful.
+Test 5: Input validation for deposit works correctly.
+Test 6: Transaction logged correctly.

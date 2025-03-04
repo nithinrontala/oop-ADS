@@ -1,0 +1,19 @@
+=== Testing Person class ===
+Initial games for John: ['The Movie: The Game', 'The Legend of Corgi']
+John's name: John
+After adding 'New Adventure': ['The Movie: The Game', 'The Legend of Corgi', 'New Adventure']
+After attempting to add 'New Adventure' again: ['The Movie: The Game', 'The Legend of Corgi', 'New Adventure']
+After removing 'The Movie: The Game': ['The Legend of Corgi', 'New Adventure']
+
+=== Testing SocialNetwork class ===
+Users in network after adding John, Alice, Bob:
+SocialNetwork(current person=None, users=[Person(name=John, games=['The Legend of Corgi', 'New Adventure']), Person(name=Alice, games=['Dinosaur Diner', 'The Movie: The Game']), Person(name=Bob, games=['The Legend of Corgi', 'Dinosaur Diner'])])
+Retrieved user: Person(name=Alice, games=['Dinosaur Diner', 'The Movie: The Game'])
+After updating current person to Alice, current person: Person(name=Alice, games=['Dinosaur Diner', 'The Movie: The Game'])
+Users who like 'Dinosaur Diner': ['Alice', 'Bob']
+Users who like 'The Legend of Corgi': ['John', 'Bob']
+After removing Alice from network:
+SocialNetwork(current person=None, users=[Person(name=John, games=['The Legend of Corgi', 'New Adventure']), Person(name=Bob, games=['The Legend of Corgi', 'Dinosaur Diner'])])
+User with name NonExistent not found.
+User Alice is not in the network.
+User with name Bob already exists.

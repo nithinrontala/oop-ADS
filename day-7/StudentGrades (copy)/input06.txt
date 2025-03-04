@@ -1,0 +1,6 @@
+Add Student: Peter, 601, 68
+Add Student: Quinn, 602, 94
+Add Student: Rachel, 603, 73
+DisplayStudents
+Add Student: Sarah, 604, 81
+CalculateAverageMarks

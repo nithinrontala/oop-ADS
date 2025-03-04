@@ -1,0 +1,10 @@
+Initialized: 0.0 + 0.0i
+After addition: 0.0 + 0.0i
+After subtraction: 0.0 + 0.0i
+After multiplication: 0.0 + 0.0i
+Error: Division by zero is not allowed.
+Modulus: 0.0
+Conjugate: 0.0 + -0.0i
+After addition: 0.0 + 0.0i
+Error: Division by zero is not allowed.
+Modulus: 0.0

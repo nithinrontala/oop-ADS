@@ -1,0 +1,10 @@
+Cart is empty.
+Item added to cart: Tablet
+Item added to cart: Charger
+Total after 10% discount: $6772.50
+Item added to cart: Phone
+Item added to cart: Headphones
+Item removed from cart: Tablet
+Item not found in the cart: Monitor
+Item added to cart: Keyboard
+Total after 10% discount: $8339.40

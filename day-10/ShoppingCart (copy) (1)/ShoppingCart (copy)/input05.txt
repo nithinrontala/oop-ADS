@@ -1,0 +1,16 @@
+ApplyDiscount
+ApplyDiscount
+DisplayCart
+ApplyDiscount
+Remove Item Printer
+ApplyDiscount
+Add Item Headphones, 707, 2
+Remove Item Keyboard
+Add Item Monitor, 338, 4
+Remove Item Printer
+DisplayCart
+Add Item Printer, 589, 3
+Add Item Tablet, 717, 5
+DisplayCart
+Remove Item Monitor
+ApplyDiscount

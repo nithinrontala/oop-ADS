@@ -1,0 +1,8 @@
+X  X  X  X  X
+60  70  X  X  X
+X  X  X  X  X
+11  22  X  X  X
+66  77  X  X  X
+
+B I N G O
+Game Completed!

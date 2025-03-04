@@ -1,0 +1,3 @@
+Name: Alice, Roll Number: 101, Marks: 85, Grade: B
+Name: Bob, Roll Number: 102, Marks: 92, Grade: A
+Average Marks: 88.50

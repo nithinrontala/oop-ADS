@@ -1,0 +1,4 @@
+Add Student: Alice, 101, 85
+Add Student: Bob, 102, 92
+DisplayStudents
+CalculateAverageMarks

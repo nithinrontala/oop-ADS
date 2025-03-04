@@ -1,0 +1,18 @@
+Remove Item Printer
+DisplayCart
+DisplayCart
+Remove Item Keyboard
+DisplayCart
+DisplayCart
+Remove Item Camera
+DisplayCart
+Remove Item Camera
+Add Item Charger, 985, 4
+DisplayCart
+Remove Item Printer
+Remove Item Camera
+DisplayCart
+ApplyDiscount
+DisplayCart
+DisplayCart
+Remove Item Printer

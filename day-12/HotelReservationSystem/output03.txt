@@ -1,0 +1,4 @@
+Alice reserved Room 1
+Bob reserved Room 2
+Charlie reserved Room 3
+Hotel is full. No room available for Daniel
