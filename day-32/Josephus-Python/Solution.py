@@ -78,6 +78,25 @@ class DoublyCircularLL:
         # print(removable)
         return removable
     
+    def remove_at(self,i):
+        if not self.head:  
+            return None
+        
+        if self.head == self.tail:
+            return None
+        
+        c = self.head
+        for _ in range(i):
+            c = c.next
+
+        if c == self.head:
+            self.remove()
+        elif c == self.tail:
+            self.remove_last()
+        else:
+            c.prev.next = c.next
+            c.next.prev = c.prev
+            self._size -= 1
     def get(self, i):
         if i < 0 or i >= self._size:
             return
@@ -121,5 +140,17 @@ class Josephus:
     def josephusDCLL(self, size, rotation):
         self.size = size
         self.rotation = rotation
-    
+        linked_list = DoublyCircularLL()
+
+        for i in range(1,size+1):
+            linked_list.add(i)
+            # print(str(linked_list))
         
+        current_position = 0
+
+        for i in range(size - 1):
+            current_position = (current_position + rotation - 1) % linked_list.size()
+
+            linked_list.remove_at(current_position)
+        
+        return linked_list.get_first()
