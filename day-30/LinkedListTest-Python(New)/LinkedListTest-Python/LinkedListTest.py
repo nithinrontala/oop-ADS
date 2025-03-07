@@ -211,6 +211,7 @@ def run_tests():
         print("Test case 25 failed")
 
     # Test case 26: Check the size of an empty list
+    # print(linkedlist.size)
     if linkedlist.size == 1:
         print("Test case 26 passed")
         count += 1

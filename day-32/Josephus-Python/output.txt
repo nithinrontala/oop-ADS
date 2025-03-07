@@ -1,0 +1,13 @@
+Test Case: size=5, rotation=2 | Survivor: 3
+Test Case: size=7, rotation=2 | Survivor: 7
+Test Case: size=8, rotation=2 | Survivor: 1
+Test Case: size=13, rotation=2 | Survivor: 11
+Test Case: size=1, rotation=1 | Survivor: 1
+Test Case: size=10, rotation=3 | Survivor: 4
+Test Case: size=10, rotation=1 | Survivor: 10
+Test Case: size=15, rotation=4 | Survivor: 13
+Test Case: size=10, rotation=11 | Survivor:  7
+Test Case: size=20, rotation=21 | Survivor:  13
+Test Case: size=30, rotation=31 | Survivor:  17
+Test Case: size=15, rotation=25 | Survivor:  1
+Test Case: size=15, rotation=15 | Survivor:  4
